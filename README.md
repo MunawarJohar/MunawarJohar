@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Visit My Blog Click below</h3>
-<a href="https://my-porfolio.munawarjohar.repl.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replict.svg" alt="Visit know" height="30" width="40" /></a>
+<a href="https://my-porfolio.munawarjohar.repl.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replict.svg" alt="WWW.MunawarJohar.com" height="30" width="40" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munawarjohar&show_icons=true&locale=en&layout=compact" alt="munawarjohar" /></p>
