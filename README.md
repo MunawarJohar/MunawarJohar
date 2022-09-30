@@ -11,8 +11,8 @@
 
 - 💬 Ask me about **Web development**
 <h3 align="left">Visit My Blog</h3>
+<a href="https://my-porfolio.munawarjohar.repl.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="munawar hussain johar" height="30" width="40" /></a>
 
-<a href="my-porfolio.munawarjohar.repl.co/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munawar johar" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
