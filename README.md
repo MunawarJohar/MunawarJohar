@@ -12,7 +12,7 @@
 - 💬 Ask me about **Web development**
 <h3 align="left">Visit My Blog</h3>
 
-<p align="left"> <a"href="https://my-porfolio.munawarjohar.repl.co/" </a> </p>
+<p align="left">Visit Konw <a"href="https://my-porfolio.munawarjohar.repl.co/" </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
