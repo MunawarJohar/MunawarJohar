@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning **Artificial Integience**
 
 - 💬 Ask me about **Web development**
+<h3 align="left">Visit My Blog</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munawarjohar&label=Visit Know&color=0e75b6&style=flat" alt="munawarjohar" href="https://my-porfolio.munawarjohar.repl.co/" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
