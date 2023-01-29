@@ -1,81 +1,34 @@
-@@ -1,68 +1,65 @@
-### Hi there, I am Munawar Johar-  [qadirhassan.com][website] 👋 
-[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
-[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadir-hassan)
+
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
-## I'm a Full Stack Developer, and Teacher!!
-- 🔭 I just launched my first course: [Data Structure And Algorithms][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to talk.
-### Connect with me:
-[<img align="left" alt="qadirhassan.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="qadirhassan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
-***
-### Languages and Tools:
-### Front-End Technologies  
-[![My Skills](https://skills.thijs.gg/icons?i=angular,html,css,js,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
-</br>
-### Backend Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=php,py,cpp,django,mysql,mongodb&theme=dark)](https://skills.thijs.gg)
-</br>
-### Other Tools and Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,ps,vscode,wordpress,xd&theme=dark)](https://skills.thijs.gg)
-<br />
+<h1 align="center">Hi 👋, I'm Munawar Johar</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<img align="right" alt="loading" width="400" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munawarjohar&label=Profile%20views&color=0e75b6&style=flat" alt="munawarjohar" /> </p>
+
+- 🌱 I’m currently learning **Artificial Integience**
+
+- 💬 Ask me about **Web development**
 
 
----
 
-# CHECK OUT MY RECENT PROJECTS!
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/106137102/203019646-77815d26-4678-4f2e-90c2-2012476e9e1f.PNG" width = 1000>
-    </td>
-     <td><img src="https://user-images.githubusercontent.com/106137102/201598208-328212fc-17cb-4152-a6fb-f640e6bffbc6.PNG" width = 700>
-    </td>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width =1000>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Ascend-Perinatal-%E2%80%93-Ascend-Perinatal.png" width =1000>
-    </td>
-  </tr> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/munawar-johar-520796240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munawar johar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006232577328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="munawar hussain johar" height="30" width="40" /></a>
+</p>
 
-  <tr>
-    <td><a href="https://newtonpad.com/"</a> 1 Facebook Clone</td>
-        <td><a href="https://ncai.pk/"</a> 2. KaboomJs CLone</td>
-     <td>3. dApp Platform</td>
-     <td><a href="https://ascendperinatal.com/"</a> 3. Ascend Perinatal </td>
-  </tr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
- <tr> 
-  <td>
-   <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture5.JPG/:/cr=t:0%25,l:4.66%25,w:90.67%25,h:100%25/rs=w:388,h:194,cg:true">
-  </td>
-  <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Home-Maine-Cabinet-Company.png" width =1000></td>
+<h3 align="left">Visit My Blog Click below</h3>
+<a href="https://my-porfolio.munawarjohar.repl.co/" target="blank">www.MunawarJohar.com</a>
 
-  <td>
-   <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture6.JPG/:/cr=t:0%25,l:6.8%25,w:86.4%25,h:100%25/rs=w:388,h:194,cg:true">
-@@ -75,7 +72,7 @@
- </tr>
 
-   <tr>
-    <td>4. P2P Defi Platform</td>
-     <td><a href="https://mainecabinetcompany.net/"</a> 4. Maine Cabinet Company </td>
-     <td>5. Alt Coin and Platform</td>
-     <td>6. Crypto Wallet App</td>
-  </tr>
-</table>
-![Profile views](https://gpvc.arturio.dev/Qadir-Hassan)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qadir-Hassan&show_icons=true) </br>
-![GitHub metrics](https://metrics.lecoq.io/Qadir-Hassan)  
-[website]: https://qadirhassan.com/
-[course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
-[twitter]: https://twitter.com/Qadir77350473
-[youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
-[instagram]: https://www.instagram.com/qadir109/
-[linkedin]: https://www.linkedin.com/in/qadir-hassan/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munawarjohar&show_icons=true&locale=en&layout=compact" alt="munawarjohar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munawarjohar&show_icons=true&locale=en" alt="munawarjohar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munawarjohar&" alt="munawarjohar" /></p>
