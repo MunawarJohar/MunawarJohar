@@ -26,7 +26,6 @@
 
   <img  src="https://camo.githubusercontent.com/be634cf86905c280faec5c3c3f1bb8756583d9905a0aa33dac85c9dc9af56cf3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d756e617761726a6f686172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/MunawarJohar/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
 
   Hi, I'<a href="https://munawar-johar-io.vercel.app/"> Munawar Johar </a>,I have over 5 years of experience as a web developer.      I am proficient in HTML, CSS, JavaScript, and React.js. I am also familiar with a variety of web development frameworks, such as React, Next.js, and Node.js. I am a creative and innovative developer who is always looking for new ways to improve the user experience. I am also a team player and I am always willing to help others.
   <br>
