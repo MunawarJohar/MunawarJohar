@@ -13,8 +13,7 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/munawar-johar-520796240/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://replit.com/@MunawarJohar" alt="Douyin"><img width="52px" src="./img/images.png"/></a>
+  <a href="https://replit.com/@MunawarJohar" alt="Douyin"><img width="55px" src="./img/images.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
