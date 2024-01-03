@@ -36,8 +36,8 @@ I am also a freelancer and have been working online for more than 2 years. I hav
  - 🔭 I’m currently working on **Blockchain Development**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/MunawarJohar?tab=repositories)
 - 💬 Ask me about **Web Development, Python, C++, Github**
-- 📄 Know about my [Experiences](https://github.com/MunawarJohar)
-- 👨‍💻 Hire Me as [Freelancer](https://www.fiverr.com/users/munawarjohar)
+- 📄 Know about my [Experiences](https://munawar-johar-io.vercel.app/#resume)
+- 👨‍💻 Hire Me as [Freelancer](https://www.linkedin.com/in/munawar-johar-520796240/)
 
 
 <h2 align="left" id="naemazam">Certificates</h2>
