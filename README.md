@@ -389,7 +389,7 @@ I am also a freelancer and have been working online for more than 2 years. I hav
       </a>
       <br> HTML Notes
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#">
         <img src="./img/css.png" width="70" height="48" alt="Python" />
       </a>
