@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.slideshare.net/MunawarHussainJohar1"><img width="32px" alt="slideshare" title="codepen" src="./img/slideshare.png"/></a>
+  <a href="https://www.slideshare.net/MunawarHussainJohar1"><img width="48px" alt="slideshare" title="codepen" src="./img/slideshare.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@munawar151512"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
