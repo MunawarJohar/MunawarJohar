@@ -22,6 +22,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@munawar151512"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://dev.to/munawarjohar"><img width="32px" alt="Medium" title="Medium" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
   <img  src="https://camo.githubusercontent.com/be634cf86905c280faec5c3c3f1bb8756583d9905a0aa33dac85c9dc9af56cf3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d756e617761726a6f686172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/></a>
