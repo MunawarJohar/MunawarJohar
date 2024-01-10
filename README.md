@@ -32,7 +32,7 @@
   <br>
 
 I am also a freelancer and have been working online for more than 2 years. I have completed many projects in my freelancing career. The most essential feature of me is that I am a reliable worker dedicating myself fully to my projects. Just handover your tasks to me and take a rest.
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MunawarJohar/MunawarJohar/main/img/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="500" height="320" />
  
  - 🔭 I’m currently working on **Blockchain Development**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/MunawarJohar?tab=repositories)
