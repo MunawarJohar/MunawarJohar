@@ -1,4 +1,5 @@
-![profile_banner](https://github.com/MunawarJohar/profile/assets/106137102/72e9cc0f-b9d6-430b-af23-842f6ea98bb6)
+![profile](https://github.com/MunawarJohar/MunawarJohar/assets/106137102/11c08ef7-7e4e-42b2-baaf-163db9aacc86)
+
 <h3 align="center">
 
   Welcome to Munawar Johar's profile!
