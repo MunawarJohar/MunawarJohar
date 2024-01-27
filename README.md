@@ -381,7 +381,7 @@ I am also a freelancer and have been working online for more than 2 years. I hav
   <a href="https://github.com/MunawarJohar?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📘 My Course Source Code and Notes
+## 📘 My Courses Notes With Source Code
 <table>
   <tr>
     <td align="center" width="96">
@@ -391,7 +391,7 @@ I am also a freelancer and have been working online for more than 2 years. I hav
       <br> HTML Notes
     </td>
     <td align="center" width="110">
-      <a href="#">
+      <a href="https://github.com/MunawarJohar/CSS-Course">
         <img src="./img/css.png" width="70" height="48" alt="Python" />
       </a>
       <br> CSS Notes
@@ -401,6 +401,12 @@ I am also a freelancer and have been working online for more than 2 years. I hav
         <img src="./img/python-original.svg" width="70" height="48" alt="Python" />
       </a>
       <br> Python Notes
+    </td>
+        <td align="center" width="96">
+      <a href="https://github.com/MunawarJohar/jQuery-Notes">
+        <img src="./img/jQuery.png" width="70" height="48" alt="Python" />
+      </a>
+      <br> jQuery Notes
     </td>
 </table>
  
