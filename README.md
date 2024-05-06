@@ -409,6 +409,14 @@ I am also a freelancer and have been working online for more than 2 years. I hav
       </a>
       <br> jQuery Notes
     </td>
+  </td>
+        <td align="center" width="96">
+      <a href="https://github.com/MunawarJohar/SQL-Course">
+        <img src="./img/sql.png" width="70" height="48" alt="sql" />
+      </a>
+      <br> SQL Notes
+    </td>
+    
 </table>
  
   <p align="center">
