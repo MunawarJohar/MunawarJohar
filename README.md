@@ -28,7 +28,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=MunawarJohar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Badge" />
 
-  Hi, I'<a href="https://munawar-johar-io.vercel.app/"> Munawar Johar </a>,I have over 5 years of experience as a web developer.      I am proficient in HTML, CSS, JavaScript, and React.js. I am also familiar with a variety of web development frameworks, such as React, Next.js, and Node.js. I am a creative and innovative developer who is always looking for new ways to improve the user experience. I am also a team player and I am always willing to help others.
+  Hi, I'<a href="https://munawar-johar-io.vercel.app/"> Munawar Johar </a>,I have over 3 years of experience as a web developer.      I am proficient in HTML, CSS, JavaScript, and React.js. I am also familiar with a variety of web development frameworks, such as React, Next.js, and Node.js. I am a creative and innovative developer who is always looking for new ways to improve the user experience. I am also a team player and I am always willing to help others.
   <br>
 
 I am also a freelancer and have been working online for more than 2 years. I have completed many projects in my freelancing career. The most essential feature of me is that I am a reliable worker dedicating myself fully to my projects. Just handover your tasks to me and take a rest.
